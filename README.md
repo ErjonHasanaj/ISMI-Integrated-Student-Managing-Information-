@@ -46,7 +46,7 @@ The Integrated Student Managing Information (ISMI) System is a C-based project t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ErjonHasanaj/ISMI-Integrated-Student-Managing-Information.git
+   https://github.com/ErjonHasanaj/ISMI-Integrated-Student-Managing-Information-.git
 
 2. Navigate to the project directory:
 
